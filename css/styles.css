@@ -5,6 +5,11 @@
   border-radius: 5px;
   border-bottom: solid;
 }
+.right
+{
+  margin-left: 30%;
+  margin-top: 15px;
+}
 .home a
 {
   font-size: 25px;
@@ -12,6 +17,7 @@
   margin-left: 5px;
   text-decoration: none;
   margin-top: 5px;
+
 }
 #home1
 {
@@ -26,9 +32,10 @@ width: 100%;
 }
 .left
 {
-  background-color: 	#00FFFF;
+
   width: 25%;
   height: 100%;
+  background-image: url(images/1.png);
 }
 .left h3
 {
@@ -38,5 +45,10 @@ width: 100%;
 }
 body
 {
-  
+background-image: url(images/1.png);
+}
+.background
+{
+  background-image: url("images/2.jpg");
+  border-width: thick 	rgb(192, 192, 192);
 }
